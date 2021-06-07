@@ -1,3 +1,8 @@
+Foi desenvolvida uma api em Java que contenha os dados dos planetas Star Wars conforme Instruçoes gerais descrita no documento do desafio. 
+
+Tecnologias: Java, MongoDB, Json. Spring boot, Spring data e Docker. 
+
+
 # desafioApiRest
 
 Instruções gerais
